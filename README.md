@@ -19,7 +19,7 @@ Atualmente estou fazendo o curso **Python Impressionador** da **Hashtag Treiname
 #### Conhecimentos em softwares:
 
 - Python - avançado
-- Microsoft Office – Excel (intermediário)*, Power Point (intermediário), Word (básico)
+- Microsoft Office – Excel (intermediário)*, PowerPoint (intermediário), Word (básico)
 - SQL - básico
 - CSS - básico
 
