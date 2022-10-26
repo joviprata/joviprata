@@ -29,7 +29,7 @@ A seguir são imagens de alguns dos meus projetos. Caso deseje acessar o reposit
 ##### [Dashboard de Vendas feito com o Excel:](https://github.com/joviprata/dashboard-de-vendas.git)
 ![Dashboard de Vendas](https://user-images.githubusercontent.com/115483518/197239609-48f6a219-3b50-4578-bcbb-a4b691f9db7f.png)
 
-##### [Blog Comunidade Impressionadora:](https://github.com/joviprata/site-comunidade-impressionadora.git) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Remake do Flappy Bird:](https://github.com/joviprata/remake-do-flappy-bird.git)
+##### [Blog Comunidade Impressionadora:](https://github.com/joviprata/site-comunidade-impressionadora.git) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Remake do Flappy Bird:](https://github.com/joviprata/remake-do-flappy-bird.git)
 <img src="https://user-images.githubusercontent.com/115483518/197409770-e6808f45-1ea3-4498-96cf-36dff15b7bba.png" width=66.2% height=66.2%> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/115483518/197087163-0b9b3f07-138c-4724-983c-ccb498299649.png" width=23% height=23%>
 
 
