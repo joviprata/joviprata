@@ -1,7 +1,7 @@
 ![Hey there! I'm Jovi](https://github.com/user-attachments/assets/ddc6db85-6276-4bcf-9602-f546a9ce73a0)
 <div align="center">
   
-  [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joviprata07@gmail.com)
+  [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joviprata07@gmail.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joviprata)
   [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/joviprata)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@joviprata)
