@@ -14,21 +14,26 @@ My programming career started when I took the Python Course from Hashtag Treinam
 At my university, I learned perseverance with coding marathons like IEEExtreme 17.0, a 24-hour marathon, where I solved coding problems with C++ and Python languages. I also participated in other university marathons in a team with two other colleagues.
 I've honed my skills in cloud computing, specifically on Amazon AWS, by automating data extraction from APIs with Lambda, managing ETL processes with AWS Glue, maintaining databases on Amazon RDS with Postgres, and connecting such databases to interactive dashboards in Metabase, Power BI and Looker Studio.<br/>
 If you want to see my projects, feel free to check out [my repositories](https://github.com/joviprata?tab=repositories). They cover several topics, including:<br/>
-- Process Automations
-- Flask (website creation)
-- Data Analysis with Pandas
-- Python Integrations with:
-  - SQL
-  - Web Automations (Web-Scraping with Selenium)
-  - Files and computer folders
-  - E-mail
-  - APIs and JSON
-- Games
-- Tkinter (Graphical User Interface)
-- Turning Python code into an executable file
-- Auto-run codes periodically, even with the PC turned off
+- N8N Automations
+- Data Analysis - Facebook Ads, Instagram, Hotmart, ActiveCampaign and others
+- Pandas (the Python library, though I can also share some cool facts about the animal)
+- APIs and JSON
+- SQL
+- App Development
+- Competitive Programming with Python and C++
+- AWS tools: Lambda, EventBridge, S3, Glue, RDS and Lightsail
+- Wordpress
+- Dashboards with Excel, Power BI, Looker Studio and Metabase
 
 Here are some pictures of my projects. If you want to access the repository of any of these images, just click on the caption.
+
+##### [AWS - API to Postgres - Instagram Metabase Dashboard:](https://github.com/joviprata/AWS-api-to-sql) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [N8N - ActiveCampaign to Postgres - Leads Looker Studio Dashboard:](https://github.com/joviprata/N8N-activecampaign-to-postgres)
+
+<img src="https://github.com/user-attachments/assets/6aafe073-28f9-4f04-80fa-56695195e468" width=41.3% height=41.3%> &nbsp; <img src="https://github.com/user-attachments/assets/1f95b488-b069-4f54-b5c7-1aab652a8f07" width=57% height=57%>
+
+##### [N8N ActiveCampaign to Postgres Automation - Diagram](https://github.com/joviprata/N8N-activecampaign-to-postgres)
+![N8N ActiveCampaign to Postgres Automation](https://github.com/user-attachments/assets/b93a0228-8700-40e2-ac69-6eb094af15c7)
+
 ##### [Sales Dashboard made with Excel:](https://github.com/joviprata/dashboard-de-vendas.git)
 ![Sales Dashboard made with Excel](https://user-images.githubusercontent.com/115483518/197239609-48f6a219-3b50-4578-bcbb-a4b691f9db7f.png)
 
