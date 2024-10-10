@@ -24,21 +24,31 @@ If you want to see my projects, feel free to check out [my repositories](https:/
 - AWS tools: Lambda, EventBridge, S3, Glue, RDS and Lightsail
 - Wordpress
 - Dashboards with Excel, Power BI, Looker Studio and Metabase
+  
+Here are some images from my projects. Click on any image to access its corresponding repository.<br/>
 
-Here are some pictures of my projects. If you want to access the repository of any of these images, just click on the caption.
+<p align="center">
+  <a href="https://github.com/joviprata/N8N-whatsapp-to-postgres">
+    <img src="https://github.com/user-attachments/assets/782dfa0a-6972-4cbb-b2f0-005b332c819c" alt="Whatsapp N8N Diagram" width="160"/>
+  </a>
+  <a href="https://github.com/joviprata/dashboard-de-vendas">
+    <img src="https://github.com/user-attachments/assets/48903cc4-af27-4088-97dd-967abf589670" alt="Dashboard de Vendas" width="160"/>
+  </a>
+  <a href="https://github.com/joviprata/AWS-api-to-sql">
+    <img src="https://github.com/user-attachments/assets/44e49f24-e6b3-4e28-a461-1d25495f0c3d" alt="AWS API to Postgres" width="160"/>
+  </a>
+  <a href="https://github.com/joviprata/N8N-activecampaign-to-postgres">
+    <img src="https://github.com/user-attachments/assets/5345e989-ed51-4f81-8281-e4c4bcfccdc5" alt="ActiveCampaign Leads" width="160"/>
+  </a>
+  <a href="https://github.com/joviprata/flappy-bird-remake">
+    <img src="https://github.com/user-attachments/assets/f3da96c3-606a-4970-a59d-300479fba8a5" alt="Flappy Bird Remake" width="160"/>
+  </a>
+  <a href="https://github.com/joviprata/competitive-programming">
+    <img src="https://github.com/user-attachments/assets/b0963cbd-596a-4443-918b-252ea430d276" alt="Competitive Programming" width="160"/>
+  </a>
+</p>
 
-##### [AWS - API to Postgres - Instagram Metabase Dashboard:](https://github.com/joviprata/AWS-api-to-sql) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [N8N - ActiveCampaign to Postgres - Leads Looker Studio Dashboard:](https://github.com/joviprata/N8N-activecampaign-to-postgres)
 
-<img src="https://github.com/user-attachments/assets/6aafe073-28f9-4f04-80fa-56695195e468" width=41.3% height=41.3%> &nbsp; <img src="https://github.com/user-attachments/assets/1f95b488-b069-4f54-b5c7-1aab652a8f07" width=57% height=57%>
-
-##### [N8N ActiveCampaign to Postgres Automation - Diagram](https://github.com/joviprata/N8N-activecampaign-to-postgres)
-![N8N ActiveCampaign to Postgres Automation](https://github.com/user-attachments/assets/b93a0228-8700-40e2-ac69-6eb094af15c7)
-
-##### [Sales Dashboard made with Excel:](https://github.com/joviprata/dashboard-de-vendas.git)
-![Sales Dashboard made with Excel](https://user-images.githubusercontent.com/115483518/197239609-48f6a219-3b50-4578-bcbb-a4b691f9db7f.png)
-
-##### [Blog Comunidade Impressionadora:](https://github.com/joviprata/site-comunidade-impressionadora.git) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Flappy Bird Remake:](https://github.com/joviprata/remake-do-flappy-bird.git)
-<img src="https://user-images.githubusercontent.com/115483518/197409770-e6808f45-1ea3-4498-96cf-36dff15b7bba.png" width=66.2% height=66.2%> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/115483518/197087163-0b9b3f07-138c-4724-983c-ccb498299649.png" width=23% height=23%>
 <!--
 ## Stargazers
 
