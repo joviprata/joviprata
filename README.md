@@ -50,6 +50,11 @@ Here are some images from my projects. Click on any image to access its correspo
 
 
 <!--
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joviprata&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="right" alt="jpg" width="250px" src="https://github.com/user-attachments/assets/df9b960b-04d3-47b8-97cd-d9db98aba6bc" />
+
 ## Stargazers
 
 [![Stargazers repo roster for @joviprata/joviprata](https://reporoster.com/stars/joviprata/N8N-whatsapp-to-postgres)](https://github.com/joviprata/N8N-whatsapp-to-postgres/stargazers)
