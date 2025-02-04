@@ -43,6 +43,10 @@ Here are some images from my projects. Click on any image to access its correspo
   <a href="https://github.com/joviprata/flappy-bird-remake">
     <img src="https://github.com/user-attachments/assets/f3da96c3-606a-4970-a59d-300479fba8a5" alt="Flappy Bird Remake" width="165"/>
   </a>
+  <a href="https://github.com/joviprata/app-great-stories">
+    <img src="https://github.com/user-attachments/assets/71df5e4f-9b65-41a1-8641-9a9bffd175c1" alt="App Great Stories" width="165"/>
+  </a>
+
 <!-- add some more projects here. Each line can contain around 5 projects. <a href="https://github.com/joviprata/competitive-programming">
     <img src="https://github.com/user-attachments/assets/b0963cbd-596a-4443-918b-252ea430d276" alt="Competitive Programming" width="165"/>
   </a> -->
