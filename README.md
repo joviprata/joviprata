@@ -8,18 +8,30 @@
   
 </div>
 
-Welcome to my profile! I'm a former intern at EscalaXZ and a Computer Science student at the University of Brasilia.<br/>
-During my internship at EscalaXZ and WeDoCare (two partner companies working in the same establishment under supervision of Felipe Yani and Renato Dias, for clients like Cátia Damasceno) I learned and applied aspects of programming and marketing. Facebook Ads, Make (former Integromat), Manychat, N8N, AWS, Metabase dashboards... I used several tools for the purpose of reducing time spent doing repetitive tasks, increasing the number of leads and sales, and gathering valuable information so that we can better direct our money investments on more profitable ad campaigns.<br/>
-My programming career started when I took the Python Course from Hashtag Treinamentos, where I learned several things from basic to advanced Python programming, including APIs and JSON, SQL, and data analysis with Pandas.<br/>
-At my university, I learned perseverance with coding marathons like IEEExtreme 17.0, a 24-hour marathon, where I solved coding problems with C++ and Python languages. I also participated in other university marathons in a team with two other colleagues.
-I've honed my skills in cloud computing, specifically on Amazon AWS, by automating data extraction from APIs with Lambda, managing ETL processes with AWS Glue, maintaining databases on Amazon RDS with Postgres, and connecting such databases to interactive dashboards in Metabase, Power BI and Looker Studio.<br/>
+Welcome to my profile! I'm a trainee at Fundação Getúlio Vargas and a Computer Science student at the University of Brasilia.<br/>
+
+### What I’ve Built
+
+- Automated Facebook Ads, Instagram, Hotmart, and ActiveCampaign data ingestion
+- Made serverless ETL pipelines using AWS Lambda, EventBridge, S3, Glue, and PostgreSQL (RDS)
+- Designed webhook-based automations using n8n and Make
+- Created decision-oriented dashboards in Metabase, Looker Studio, Power BI, and Excel
+- Automated WhatsApp and Instagram workflows using Devzapp and ManyChat
+
+Used in real production environments for marketing teams and paid traffic operations.
+
+### Problem Solving & Competitive Programming
+
+- Competed solo in IEEExtreme 17.0, a 24-hour global programming competition
+- Experience solving algorithmic problems under time pressure using Python and C++ in university marathons
+
 If you want to see my projects, feel free to check out [my repositories](https://github.com/joviprata?tab=repositories). They cover several topics, including:<br/>
 - N8N Automations
 - Data Analysis - Facebook Ads, Instagram, Hotmart, ActiveCampaign and others
 - Pandas (the Python library, though I can also share some cool facts about the animal)
 - APIs and JSON
 - SQL
-- App Development
+- App Development using Ionic
 - Competitive Programming with Python and C++
 - AWS tools: Lambda, EventBridge, S3, Glue, RDS and Lightsail
 - Wordpress
@@ -54,7 +66,6 @@ Here are some images from my projects. Click on any image to access its correspo
 </p>
 
 
-<!--
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joviprata&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
