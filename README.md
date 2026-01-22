@@ -54,6 +54,21 @@ Here are some images from my projects. Click on any image to access its correspo
   </a>
   <a href="https://github.com/joviprata/flappy-bird-remake">
     <img src="https://github.com/user-attachments/assets/f3da96c3-606a-4970-a59d-300479fba8a5" alt="Flappy Bird Remake" width="165"/>
+  </a><br/>
+  <a href="https://github.com/joviprata/app-great-stories">
+    <img src="https://github.com/user-attachments/assets/71df5e4f-9b65-41a1-8641-9a9bffd175c1" alt="App Great Stories" width="165"/>
+  </a>
+  <a href="https://github.com/joviprata/UNB-game-Fiscal-SBC-project">
+    <img src="https://github.com/user-attachments/assets/bf067a8d-5109-4c79-8f56-76e1f25d4b31" alt="Game Fiscal SBC" width="165"/>
+  </a>
+    <a href="https://github.com/joviprata/projeto-tp2">
+    <img src="https://github.com/user-attachments/assets/995b382b-884a-415d-9135-27d591771c2f" alt="Database Diagram" width="165"/>
+  </a>
+  <a href="https://github.com/joviprata/UNB-scrum-software-project">
+    <img src="https://github.com/user-attachments/assets/b30f2a6a-4688-4f39-9472-7c4bc0ae8c51" alt="Scrum Software Project" width="165"/>
+  </a>
+    <a href="https://github.com/joviprata/projeto-tag">
+    <img src="https://github.com/user-attachments/assets/8bc85c3d-7490-4cee-8346-583490ea8f95" alt="Louvain Graph" width="165"/>
   </a>
 
 <!-- add some more projects here. Each line can contain around 5 projects. 
